@@ -1,4 +1,4 @@
-# Frontend Developer Assignment: Wallets View
+# Frontend Developer Assesment
 
 ## Project Setup
 
